@@ -53,4 +53,4 @@ Please cite us if you use this code.
 }
 ```
 
-For any clarification, comments, or suggestions please create an issue or contact [shikhar@iisc.ac.in](http://shikhar-vashishth.github.io).
+For any clarification, comments, or suggestions please create an issue or contact [prateekyadav@iisc.ac.in](mailto:prateekyadav@iisc.ac.in).
