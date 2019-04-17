@@ -1,5 +1,10 @@
+tf_board/*
+checkpoints/*
+log/*
+__pycache__/*
+data/*
+
 # Byte-compiled / optimized / DLL files
-__pycache__/
 *.py[cod]
 *$py.class
 
