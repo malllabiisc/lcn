@@ -23,8 +23,6 @@ Source code for [AISTATS 2019](https://www.aistats.org/) paper: [Lovász Convolu
 
 - Execute `setup.sh` for setting up the environment and extracting datasets. 
 
-- `config/hyperparams.json`contains the best parameters for all four datasets.
-
 - For training **LCN** run:
 
   ```shell
@@ -39,6 +37,7 @@ Please cite us if you use this code.
   author    = {Prateek Yadav and
                Madhav Nimishakavi and
                Naganand Yadati and
+	       Shikhar Vashishth and
                Arun Rajkumar and
                Partha Talukdar},
   title     = {Lovasz Convolutional Networks},
