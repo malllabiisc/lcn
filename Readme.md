@@ -33,23 +33,20 @@ Source code for [AISTATS 2019](https://www.aistats.org/) paper: [Lovász Convolu
 Please cite us if you use this code.
 
 ```tex
-@article{DBLP:journals/corr/abs-1805-11365,
-  author    = {Prateek Yadav and
-               Madhav Nimishakavi and
-               Naganand Yadati and
-	       Shikhar Vashishth and
-               Arun Rajkumar and
-               Partha Talukdar},
-  title     = {Lovasz Convolutional Networks},
-  journal   = {CoRR},
-  volume    = {abs/1805.11365},
-  year      = {2018},
-  url       = {http://arxiv.org/abs/1805.11365},
-  archivePrefix = {arXiv},
-  eprint    = {1805.11365},
-  timestamp = {Mon, 13 Aug 2018 16:46:04 +0200},
-  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1805-11365},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@InProceedings{yadav19a,
+  title = 	 {Lovasz Convolutional Networks},
+  author = 	 {Yadav, Prateek and Nimishakavi, Madhav and Yadati, Naganand and Vashishth, Shikhar and Rajkumar, Arun and Talukdar, Partha},
+  booktitle = 	 {Proceedings of Machine Learning Research},
+  pages = 	 {1978--1987},
+  year = 	 {2019},
+  editor = 	 {Chaudhuri, Kamalika and Sugiyama, Masashi},
+  volume = 	 {89},
+  series = 	 {Proceedings of Machine Learning Research},
+  address = 	 {},
+  month = 	 {16--18 Apr},
+  publisher = 	 {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v89/yadav19a/yadav19a.pdf},
+  url = 	 {http://proceedings.mlr.press/v89/yadav19a.html}
 }
 ```
 
